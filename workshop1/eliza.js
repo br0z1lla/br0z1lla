@@ -32,7 +32,7 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   
-   "~*x frozen frazzled dog cat ~*y": [
+   "frozen frazzled dog cat": [
     "you need scizh meds."
   ],
   
