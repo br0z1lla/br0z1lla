@@ -32,8 +32,8 @@ var rules = {
     "How do you do. Please state your problem."
   ],
   
-   "~*x Why are you so annoying? ~*y": [
-    "I learned from you."
+   "~*x frozen frazzled dog cat ~*y": [
+    "you need scizh meds."
   ],
   
     "~*x computer ~*y": [
